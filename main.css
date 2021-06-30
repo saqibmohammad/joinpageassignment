@@ -1,0 +1,85 @@
+* { 
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+.h2{
+    color: rgb(6, 164, 175);
+    padding-left: 1%;
+    font-size: 80px;
+    
+}
+.h4 {
+    color: rgb(205, 218, 88);
+    padding: 1% 1%;
+    font-size: 50px;
+}
+.para {
+    color: grey;
+    padding: 0% 1%;
+    font-size: 40px;
+}
+.Part1 {
+    margin: 5% 5% 3% 5%;
+}
+.part2{
+    box-sizing: border-box;
+   padding-top: 5%;
+   padding-bottom: 5%;
+   padding-left: 5%;
+   width: 50%;
+   height: 450px;
+   background-color:rgb(8, 196, 202);
+   color: white;
+   font-size: 40px;
+
+    
+    float: left;
+}
+.part3 {
+    
+    padding-top: 5%;
+   padding-bottom: 5%;
+   padding-left: 5%;
+    width: 50%;
+    height: 450px;
+    background-color: rgb(7, 208, 223);
+    color: white;
+    float: right;
+    font-size: 35px;
+}    
+
+.monthly {
+   padding-bottom: 30px;
+
+}
+
+.dollar {
+    padding-left: 40px;
+    color: rgb(221, 219, 219);
+   
+
+}
+.two9 {
+    font-size: 60px;
+}
+.full {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.sign {
+    text-align: center;
+    background-color: rgb(126, 199, 16);
+    border-radius: 5px;
+    border-color: transparent;
+    border-style: outset;
+    color: white;
+    padding: 25px 250px ;
+
+}
+
+.why {
+    padding: 0px 0px 30px 0px;
+
+}
